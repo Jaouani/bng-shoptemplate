@@ -1,0 +1,13 @@
+name: My Jekyll Website
+
+section1:
+  title: "Team Hidden Bio"
+  description: "Scroll down and click on a team member picture"
+
+section2:
+  title: "Just a section"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, dicta, iure, excepturi nulla odio deserunt nihil rem ut earum hic adipisci minus sequi minima accusamus error tenetur quis aliquam sed."
+
+section3:
+  title: "Just a section"
+  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, dicta, iure, excepturi nulla odio deserunt nihil rem ut earum hic adipisci minus sequi minima accusamus error tenetur quis aliquam sed."
